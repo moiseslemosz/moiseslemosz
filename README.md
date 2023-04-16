@@ -7,7 +7,7 @@
 
 ## My name is Moises Lemos
 (React JS | JS | HTML | CSS | Styled Components | MySQL ) 🚀
-- Aspiring front end development
+- Studying Analysis and Systems Development at Faculdade Impacta de Tecnologia
 - Passionate about web development
 
 
