@@ -7,7 +7,7 @@
 
 ## My name is Moises Lemos
 (React JS | JS | HTML | CSS | Styled Components | MySQL ) 🚀
-- Studying Analysis and Systems Development at Faculdade Impacta de Tecnologia
+- Studying Analysis and Systems Development at Faculdade Impacta de <a href="https://www.impacta.edu.br/">Tecnologia</a>
 - Passionate about web development
 
 
