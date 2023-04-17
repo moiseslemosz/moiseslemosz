@@ -11,4 +11,4 @@
 - Passionate about web development
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslemosz&hide=TeX&layout=inline)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslemosz&hide=TeX&layout=compact)
