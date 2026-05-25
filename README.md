@@ -19,9 +19,18 @@ Desenvolvedor de Software com sólida base em infraestrutura e operações de su
 * **Cloud & DevOps:** AWS (EC2, S3, RDS, IAM), Docker, Git/GitHub
 * **Bancos de Dados:** PostgreSQL, MySQL
 
-## 📊 Estatísticas e Linguagens
+## 📊 Estatísticas do GitHub
 
-<br>
-<div align="left">
-  <img src="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=TeX&layout=compact&v=1" alt="Top Langs" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&v=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=4">
+    <img height="180em" src="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=4" alt="GitHub Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=html,css,tex&layout=compact&langs_count=8&hide_border=true&theme=github_dark&v=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=html,css,tex&layout=compact&langs_count=8&hide_border=true&v=4">
+    <img height="180em" src="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=html,css,tex&layout=compact&langs_count=8&hide_border=true&v=4" alt="Top Langs" />
+  </picture>
 </div>
