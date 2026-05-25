@@ -23,14 +23,14 @@ Desenvolvedor de Software com sólida base em infraestrutura e operações de su
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&v=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=4">
-    <img height="180em" src="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=4" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&v=9">
+    <source media="(prefers-color-scheme: light)" srcset="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=9">
+    <img height="180em" src="https://meus-status-github.vercel.app/api?username=moiseslemosz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&v=9" alt="GitHub Stats" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=html,css,tex&layout=compact&langs_count=8&hide_border=true&theme=github_dark&v=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=html,css,tex&layout=compact&langs_count=8&hide_border=true&v=4">
-    <img height="180em" src="https://meus-status-github.vercel.app/api/top-langs/?username=moiseslemosz&hide=html,css,tex&layout=compact&langs_count=8&hide_border=true&v=4" alt="Top Langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://meus-status-github.vercel.app/api/top-langs?username=moiseslemosz&hide=html%2Ccss%2Ctex&layout=compact&langs_count=8&hide_border=true&theme=github_dark&v=9">
+    <source media="(prefers-color-scheme: light)" srcset="https://meus-status-github.vercel.app/api/top-langs?username=moiseslemosz&hide=html%2Ccss%2Ctex&layout=compact&langs_count=8&hide_border=true&v=9">
+    <img height="180em" src="https://meus-status-github.vercel.app/api/top-langs?username=moiseslemosz&hide=html%2Ccss%2Ctex&layout=compact&langs_count=8&hide_border=true&v=9" alt="Top Langs" />
   </picture>
 </div>
